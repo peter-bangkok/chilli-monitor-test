@@ -1,45 +1,45 @@
 {
   "status": "ok",
-  "generatedAt": "2026-10-23T17:31:22.520Z",
+  "generatedAt": "2026-10-23T18:01:22.316Z",
   "channelsFound": 8,
   "readings": {
     "CH8": {
-      "Logged At": "2026-10-24 00:13:52",
+      "Logged At": "2026-10-24 00:43:51",
       "Channel": "CH8",
-      "Sensor Time": "2026-10-24 00:13:26",
+      "Sensor Time": "2026-10-24 00:43:26",
       "Moisture (%)": "20",
-      "Temperature (?C)": "25.1",
-      "EC (?S/cm)": "470",
-      "AD": "825",
+      "Temperature (?C)": "25.2",
+      "EC (?S/cm)": "460",
+      "AD": "824",
       "EC AD": "574",
       "Battery (V)": "1.56"
     },
     "CH7": {
-      "Logged At": "2026-10-24 00:13:52",
+      "Logged At": "2026-10-24 00:43:51",
       "Channel": "CH7",
-      "Sensor Time": "2026-10-24 00:13:26",
+      "Sensor Time": "2026-10-24 00:43:26",
       "Moisture (%)": "42",
       "Temperature (?C)": "25.3",
       "EC (?S/cm)": "3150",
       "AD": "1071",
-      "EC AD": "1462",
-      "Battery (V)": "1.52"
+      "EC AD": "1463",
+      "Battery (V)": "1.54"
     },
     "CH6": {
-      "Logged At": "2026-10-24 00:13:52",
+      "Logged At": "2026-10-24 00:43:51",
       "Channel": "CH6",
-      "Sensor Time": "2026-10-24 00:13:26",
+      "Sensor Time": "2026-10-24 00:43:26",
       "Moisture (%)": "22",
-      "Temperature (?C)": "25.1",
+      "Temperature (?C)": "25.2",
       "EC (?S/cm)": "700",
       "AD": "858",
       "EC AD": "663",
-      "Battery (V)": "1.52"
+      "Battery (V)": "1.5"
     },
     "CH5": {
-      "Logged At": "2026-10-24 00:13:52",
+      "Logged At": "2026-10-24 00:43:51",
       "Channel": "CH5",
-      "Sensor Time": "2026-10-24 00:13:26",
+      "Sensor Time": "2026-10-24 00:43:26",
       "Moisture (%)": "28",
       "Temperature (?C)": "24.7",
       "EC (?S/cm)": "400",
@@ -48,47 +48,47 @@
       "Battery (V)": "1.16"
     },
     "CH4": {
-      "Logged At": "2026-10-24 00:13:52",
+      "Logged At": "2026-10-24 00:43:51",
       "Channel": "CH4",
-      "Sensor Time": "2026-10-24 00:13:26",
+      "Sensor Time": "2026-10-24 00:43:26",
       "Moisture (%)": "26",
       "Temperature (?C)": "24.8",
-      "EC (?S/cm)": "1330",
+      "EC (?S/cm)": "1340",
       "AD": "881",
-      "EC AD": "877",
-      "Battery (V)": "1.54"
+      "EC AD": "879",
+      "Battery (V)": "1.56"
     },
     "CH3": {
-      "Logged At": "2026-10-24 00:13:52",
+      "Logged At": "2026-10-24 00:43:51",
       "Channel": "CH3",
-      "Sensor Time": "2026-10-24 00:13:26",
+      "Sensor Time": "2026-10-24 00:43:26",
       "Moisture (%)": "24",
-      "Temperature (?C)": "24.5",
+      "Temperature (?C)": "24.6",
       "EC (?S/cm)": "860",
-      "AD": "858",
+      "AD": "857",
       "EC AD": "705",
       "Battery (V)": "1.52"
     },
     "CH2": {
-      "Logged At": "2026-10-24 00:13:52",
+      "Logged At": "2026-10-24 00:43:51",
       "Channel": "CH2",
-      "Sensor Time": "2026-10-24 00:13:26",
+      "Sensor Time": "2026-10-24 00:43:26",
       "Moisture (%)": "28",
       "Temperature (?C)": "25.0",
       "EC (?S/cm)": "1150",
-      "AD": "909",
-      "EC AD": "813",
+      "AD": "908",
+      "EC AD": "812",
       "Battery (V)": "1.5"
     },
     "CH1": {
-      "Logged At": "2026-10-24 00:13:52",
+      "Logged At": "2026-10-24 00:43:51",
       "Channel": "CH1",
-      "Sensor Time": "2026-10-24 00:13:26",
-      "Moisture (%)": "33",
+      "Sensor Time": "2026-10-24 00:43:26",
+      "Moisture (%)": "32",
       "Temperature (?C)": "25.5",
       "EC (?S/cm)": "600",
-      "AD": "941",
-      "EC AD": "618",
+      "AD": "939",
+      "EC AD": "617",
       "Battery (V)": "1.52"
     }
   }
