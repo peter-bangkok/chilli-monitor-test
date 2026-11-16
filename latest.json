@@ -1,10 +1,10 @@
 {
   "status": "ok",
-  "generatedAt": "2026-11-16T12:02:25.799Z",
+  "generatedAt": "2026-11-16T12:32:25.349Z",
   "channelsFound": 8,
   "readings": {
     "CH8": {
-      "Logged At": "2026-11-16 18:43:52",
+      "Logged At": "2026-11-16 19:13:52",
       "Channel": "CH8",
       "Sensor Time": "2026-11-16 18:11:25",
       "Moisture (%)": "25",
@@ -15,7 +15,7 @@
       "Battery (V)": "1.5"
     },
     "CH7": {
-      "Logged At": "2026-11-16 18:43:52",
+      "Logged At": "2026-11-16 19:13:52",
       "Channel": "CH7",
       "Sensor Time": "2026-11-16 18:11:25",
       "Moisture (%)": "27",
@@ -26,7 +26,7 @@
       "Battery (V)": "1.48"
     },
     "CH6": {
-      "Logged At": "2026-11-16 18:43:52",
+      "Logged At": "2026-11-16 19:13:52",
       "Channel": "CH6",
       "Sensor Time": "2026-11-16 18:11:25",
       "Moisture (%)": "14",
@@ -37,7 +37,7 @@
       "Battery (V)": "1.48"
     },
     "CH5": {
-      "Logged At": "2026-11-16 18:43:52",
+      "Logged At": "2026-11-16 19:13:52",
       "Channel": "CH5",
       "Sensor Time": "2026-11-16 18:11:25",
       "Moisture (%)": "18",
@@ -48,7 +48,7 @@
       "Battery (V)": "1.58"
     },
     "CH4": {
-      "Logged At": "2026-11-16 18:43:52",
+      "Logged At": "2026-11-16 19:13:52",
       "Channel": "CH4",
       "Sensor Time": "2026-11-16 18:11:25",
       "Moisture (%)": "16",
@@ -59,7 +59,7 @@
       "Battery (V)": "1.5"
     },
     "CH3": {
-      "Logged At": "2026-11-16 18:43:52",
+      "Logged At": "2026-11-16 19:13:52",
       "Channel": "CH3",
       "Sensor Time": "2026-11-16 18:11:25",
       "Moisture (%)": "19",
@@ -70,7 +70,7 @@
       "Battery (V)": "1.48"
     },
     "CH2": {
-      "Logged At": "2026-11-16 18:43:52",
+      "Logged At": "2026-11-16 19:13:52",
       "Channel": "CH2",
       "Sensor Time": "2026-11-16 18:11:25",
       "Moisture (%)": "20",
@@ -81,7 +81,7 @@
       "Battery (V)": "1.48"
     },
     "CH1": {
-      "Logged At": "2026-11-16 18:43:52",
+      "Logged At": "2026-11-16 19:13:52",
       "Channel": "CH1",
       "Sensor Time": "2026-11-16 18:11:25",
       "Moisture (%)": "21",
